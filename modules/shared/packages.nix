@@ -3,8 +3,8 @@
 with pkgs; [
   # General packages for development and system management
   alacritty
-  aspell
-  aspellDicts.en
+  #aspell
+  #aspellDicts.en
   bash-completion
   bat
   btop
@@ -12,22 +12,22 @@ with pkgs; [
   killall
   neofetch
   openssh
-  sqlite
+  #sqlite
   wget
   zip
 
   # Encryption and security tools
   age
-  age-plugin-yubikey
+  #age-plugin-yubikey
   gnupg
-  libfido2
+  #libfido2
 
   # Cloud-related tools and SDKs
-  docker
-  docker-compose
+  #docker
+  #docker-compose
 
   # Media-related packages
-  emacs-all-the-icons-fonts
+  #emacs-all-the-icons-fonts
   dejavu_fonts
   ffmpeg
   fd

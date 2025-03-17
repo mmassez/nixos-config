@@ -2,15 +2,16 @@ _:
 
 [
   # Development Tools
-  "homebrew/cask/docker"
+  #"homebrew/cask/docker"
   "visual-studio-code"
+  #"kubectl"
 
   # Communication Tools
   "discord"
   "notion"
   "slack"
   "telegram"
-  "zoom"
+  #"zoom"
 
   # Utility Tools
   "syncthing"
